@@ -11,6 +11,8 @@ import {
   DiPython,
 
 } from "react-icons/di";
+import img4 from '../resources/avatar.png'; 
+import img5 from '../resources/image183.png'; 
 
 
 <link
@@ -48,11 +50,11 @@ function BasicProfile() {
                 <CurrentWorking />
         </h1>
     </div>
-    <div class="column2"><img src="avatar.png" alt="" width="300" height="280"></img></div>
+    <div class="column2"><img src={img4} alt="" width="300" height="280"></img></div>
      </div>
     <div class="row">
     <div class="column3 ">
-    <img src="image183 - Copy.png" alt="" width="500px" height="400px"></img>
+    <img src={img5} alt="" width="500px" height="400px"></img>
      </div>
      <div class="column4">
      <div class="Introduce">
