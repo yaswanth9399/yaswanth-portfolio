@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/yaswanth-portfolio/static/css/main.905586e5.css",
+    "main.js": "/yaswanth-portfolio/static/js/main.fe689061.js",
+    "static/js/787.4f93e476.chunk.js": "/yaswanth-portfolio/static/js/787.4f93e476.chunk.js",
+    "static/media/Hand coding-amico.png": "/yaswanth-portfolio/static/media/Hand coding-amico.5b6593025ba3540eb87c.png",
+    "static/media/Yaswanth Potnuru RESUME.pdf": "/yaswanth-portfolio/static/media/Yaswanth Potnuru RESUME.048fc04a6eba83760d70.pdf",
+    "static/media/Gaming-bro.png": "/yaswanth-portfolio/static/media/Gaming-bro.508216b2420cf294e12f.png",
+    "static/media/Webinar-pana.svg": "/yaswanth-portfolio/static/media/Webinar-pana.f0224d774ed081c8c6bb09c9113ed483.svg",
+    "index.html": "/yaswanth-portfolio/index.html",
+    "main.905586e5.css.map": "/yaswanth-portfolio/static/css/main.905586e5.css.map",
+    "main.fe689061.js.map": "/yaswanth-portfolio/static/js/main.fe689061.js.map",
+    "787.4f93e476.chunk.js.map": "/yaswanth-portfolio/static/js/787.4f93e476.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.905586e5.css",
+    "static/js/main.fe689061.js"
+  ]
+}
