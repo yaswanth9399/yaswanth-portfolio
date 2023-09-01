@@ -18,9 +18,9 @@ function ProjectNames() {
     <Card.Body>  
       <Card.Title><strong>Churn Prediction in Telecom Industry</strong></Card.Title>  
       <Card.Text>  
-      The main objective being to learn how to use various data mining techniques on the dataset and analyze the situation<br></br>
-      I have taken a dataset that contains customer details of a Phone connection and showed predicted churn value 
-using Naive Bayes classification algorithm.
+      The main objective being to learn how to use various data mining techniques on the dataset and analyze the situation.
+      I have taken a dataset from Kaggle website that contains customer details of a Phone connection and worked on data pre-processing. Then showed predicted churn value using Naive Bayes classification
+      algorithm. This is done using Anaconda (Jupyter Notebook). 
       </Card.Text>  
       {/* <Button variant="primary">Read More</Button>   */}
     </Card.Body>  

@@ -1,6 +1,6 @@
 
 import React from "react";
-import { Container} from "react-bootstrap";
+import Container from 'react-bootstrap/Container'
 import aboutimg from '../resources/Cross-platform software-amico.svg' 
 
 function Home2() {
@@ -22,6 +22,13 @@ function Home2() {
 <br></br>
 <center><h1 class="education"><strong><span>EDUCATION : </span></strong></h1></center>
 <div class="timeline">
+<div class="contain right">
+    <div class="content">
+      <h2>2023-present</h2>
+      <p>University of CINCINNATI ,USA<br>
+      </br>Master of Engineering in Computer Science</p>
+    </div>
+  </div>
   <div class="contain left">
     <div class="content">
       <h2>2017-2021</h2>
