@@ -5,6 +5,7 @@ import About from "./components/About";
 import NavBar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Project from "./components/Project";
+import 'bootstrap/dist/css/bootstrap.css';
 import './App.css';
 import {
   BrowserRouter as Router,
@@ -21,7 +22,7 @@ function App() {
         <Route path="/home" element={<Home />} />
         <Route path="/project" element={<Project />} />
         <Route path="/about" element={<About />} />
-        <Route path="*" element={<Navigate to="/home"/>} />
+        <Route path="*" element={<Navigate to="/yaswanth-portfolio/"/>} />
         <Route path="/resume" element={<Resume/>} />
       </Routes>
       <Footer />

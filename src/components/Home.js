@@ -24,12 +24,12 @@ import {
 />
 
 
-function CurrentWorking() {
-    const [job, setJob] = useState("Asst System Engineer");
-    return(<><h1>{job}! </h1><button
-    onClick={() => setJob("SFCC Developer")}
-  >Working as</button> </>);
-}
+// function CurrentWorking() {
+//     const [job, setJob] = useState("Asst System Engineer");
+//     return(<><h1>{job}! </h1><button
+//     onClick={() => setJob("SFCC Developer")}
+//   >Working as</button> </>);
+// }
 
 function BasicProfile() {
     return (
@@ -48,7 +48,8 @@ function BasicProfile() {
               <h1>
                 I'M
                 <strong className="main-name"> YASWANTH POTNURU</strong>
-                <CurrentWorking />
+                <p> Currently Pursuing <strong>Master of Engineering in ComputerScience</strong> from <strong>University of Cincinnati</strong></p>
+                {/* <CurrentWorking /> */}
         </h1>
     </div>
     <div class="column2"><img class="avatar" src={avatar} alt="" width="300" height="280"></img></div>
