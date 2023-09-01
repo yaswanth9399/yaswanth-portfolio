@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/yaswanth-portfolio/static/css/main.8b566eea.css",
-    "main.js": "/yaswanth-portfolio/static/js/main.d8c5f576.js",
+    "main.js": "/yaswanth-portfolio/static/js/main.f9d06afc.js",
     "static/js/787.4f93e476.chunk.js": "/yaswanth-portfolio/static/js/787.4f93e476.chunk.js",
     "static/media/Hand coding-amico.png": "/yaswanth-portfolio/static/media/Hand coding-amico.5b6593025ba3540eb87c.png",
     "static/media/Yaswanth Potnuru RESUME.pdf": "/yaswanth-portfolio/static/media/Yaswanth Potnuru RESUME.048fc04a6eba83760d70.pdf",
@@ -12,11 +12,11 @@
     "static/media/Webinar-pana.svg": "/yaswanth-portfolio/static/media/Webinar-pana.bfc70886344346dd8e62668edd742385.svg",
     "index.html": "/yaswanth-portfolio/index.html",
     "main.8b566eea.css.map": "/yaswanth-portfolio/static/css/main.8b566eea.css.map",
-    "main.d8c5f576.js.map": "/yaswanth-portfolio/static/js/main.d8c5f576.js.map",
+    "main.f9d06afc.js.map": "/yaswanth-portfolio/static/js/main.f9d06afc.js.map",
     "787.4f93e476.chunk.js.map": "/yaswanth-portfolio/static/js/787.4f93e476.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8b566eea.css",
-    "static/js/main.d8c5f576.js"
+    "static/js/main.f9d06afc.js"
   ]
 }
