@@ -16,7 +16,7 @@ function Home2() {
             I love contributing to the success of these rising champions aka the startups!</p>
         </div>
 
-        <div class="col2"><img src={aboutimg} alt="" width="400" height="400"></img></div>
+        <div class="col2"><img class="aboutimg" src={aboutimg} alt="" height="400"></img></div>
     </row>
     </div>
 <br></br>

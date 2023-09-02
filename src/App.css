@@ -419,7 +419,7 @@ margin-top: 10rem;
     margin-left:-75px;
   }
   .homeimage{
-width:400px;
+/* width:400px; */
   }
   .Professional{
     margin-top: 40rem;
@@ -511,4 +511,8 @@ width:400px;
 } */
 .headericon{
  margin-left: 0%;
+}
+
+.aboutimg{
+  margin-left:-30px;
 }
