@@ -56,7 +56,7 @@ function BasicProfile() {
      </div>
     <div class="row">
     <div class="column3 ">
-    <img src={homeimg} class="homeimage"  alt="" width="500px" height="400px"></img>
+    <img src={homeimg} class="homeimage"  alt="" width="350px" height="400px"></img>
      </div>
      <div class="column4">
      <div class="Introduce">
