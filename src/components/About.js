@@ -9,7 +9,7 @@ function Home2() {
     <div>
     <row>
         <div class="col1"><h1 class="heading1"><strong>Know Who <span class="highlet">I'M</span></strong></h1>
-        <p class="about">I am Yaswanth ,currently working in TCS . 
+        <p class="about">I am Yaswanth ,currently studying Masters in USA. 
           I loved to become a full stack developer because now a days most useful technologies are WEB developing(HTML,css,js,anyone backend technology)
           ,machine learning,deep learning and mysql these are minimum technologies to become a full stack developer.</p>
           <p class="about">I love to explore how a MACHINE is LEARNING and how can I use my adaptive problem-solving skills to help those ARTIFICAL brains boost their INTELLIGENCE. And yes, if you own a STARTUP or if you are HIRING, let's connect. 

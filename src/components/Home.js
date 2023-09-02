@@ -48,11 +48,11 @@ function BasicProfile() {
               <h1>
                 I'M
                 <strong className="main-name"> YASWANTH POTNURU</strong>
-                <p> Currently Pursuing <strong>Master of Engineering in ComputerScience</strong> from <strong>University of Cincinnati</strong></p>
+                {/* <p> Currently Pursuing <strong>Master of Engineering in ComputerScience</strong> from <strong>University of Cincinnati</strong></p> */}
                 {/* <CurrentWorking /> */}
         </h1>
     </div>
-    <div class="column2"><img class="avatar" src={avatar} alt="" width="300" height="280"></img></div>
+    <div class="column2"><img class="avatar" src={avatar} alt="" width="" height="280"></img></div>
      </div>
     <div class="row">
     <div class="column3 ">

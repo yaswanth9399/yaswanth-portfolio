@@ -126,7 +126,7 @@ img {
   border: 2.2px solid rgba(220, 72, 112, 0.883) !important;
 }
 .sectiontext{
-  text-align: justify;
+  /* text-align: justify; */
     margin-left: 5rem;
 }
 .heading{
@@ -186,7 +186,6 @@ body {
   justify-content: center;
   flex-direction: column;
   text-align: center;
-  
 }
 .socials{
   list-style: none;
@@ -389,6 +388,7 @@ margin-top: 10rem;
 @media (max-width: 1200px) {
   .resume-class{
     margin-top: 150px;
+    margin-left:10px
 
   }
   
@@ -416,7 +416,7 @@ margin-top: 10rem;
     margin-left: -40px;
   }
   .avatar{
-width:200;
+    margin-left:-75px;
   }
   .homeimage{
 width:400px;
@@ -426,7 +426,7 @@ width:400px;
     margin-left: 3.5rem;
   }
   .footer{
-    margin-top: 15rem;
+    margin-top: 25rem;
   }
   footer{
     position: absolute;
@@ -434,7 +434,7 @@ width:400px;
     right: 0;
     background: #64aba47d;
     height: auto;
-    width: 126vw;
+    /* width: 126vw; */
     /* padding-top: 100px; */
     color: #fff;
   }
