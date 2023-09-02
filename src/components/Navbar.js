@@ -48,7 +48,7 @@ function NavBar() {
           <Nav className="ms-auto" defaultActiveKey="#home">
             <Nav.Item>
               <Nav.Link as={Link} to="/home" onClick={() => updateExpanded(false)}>
-                <AiOutlineHome style={{ marginBottom: "2px" ,fontSize:"28px" }} /><span style={{ fontSize: "28px" }}>Home</span> 
+                <AiOutlineHome style={{ marginBottom: "2px" ,fontSize:"20px" }} /><span style={{ fontSize: "20px" }}>Home</span> 
               </Nav.Link>
             </Nav.Item>
 
@@ -58,7 +58,7 @@ function NavBar() {
                 to="/about"
                 onClick={() => updateExpanded(false)}
               >
-                <AiOutlineUser style={{ marginBottom: "2px",fontSize:"28px"  }} /><span style={{ fontSize: "28px" }}> About</span>
+                <AiOutlineUser style={{ marginBottom: "2px",fontSize:"20px"  }} /><span style={{ fontSize: "20px" }}> About</span>
               </Nav.Link>
             </Nav.Item>
 
@@ -69,9 +69,9 @@ function NavBar() {
                 onClick={() => updateExpanded(false)}
               >
                 <AiOutlineFundProjectionScreen
-                  style={{ marginBottom: "2px",fontSize:"28px"  }}
+                  style={{ marginBottom: "2px",fontSize:"20px"  }}
                 />{" "}
-                <span style={{ fontSize: "28px" }}>Projects </span>
+                <span style={{ fontSize: "20px" }}>Projects </span>
               </Nav.Link>
             </Nav.Item>
 
@@ -81,7 +81,7 @@ function NavBar() {
                 to="/resume"
                 onClick={() => updateExpanded(false)}
               >
-                <CgFileDocument style={{ marginBottom: "2px",fontSize:"28px" }} /> <span style={{ fontSize: "28px" }}>Resume</span>
+                <CgFileDocument style={{ marginBottom: "2px",fontSize:"20px" }} /> <span style={{ fontSize: "20px" }}>Resume</span>
               </Nav.Link>
             </Nav.Item>
 

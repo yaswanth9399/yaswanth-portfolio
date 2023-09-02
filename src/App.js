@@ -19,10 +19,11 @@ function App() {
     <div className="App">
       <NavBar />
       <Routes>
+        {/* <Route path="/home" element={<Navigate to="/yaswanth-portfolio/"/>} /> */}
         <Route path="/home" element={<Home />} />
         <Route path="/project" element={<Project />} />
         <Route path="/about" element={<About />} />
-        <Route path="*" element={<Navigate to="/home"/>} />
+        <Route path="*" element={<Home />} />
         <Route path="/resume" element={<Resume/>} />
       </Routes>
       <Footer />
