@@ -20,11 +20,11 @@ function App() {
       <NavBar />
       <Routes>
         {/* <Route path="/home" element={<Navigate to="/yaswanth-portfolio/"/>} /> */}
-        <Route exact path="/" element={<Home />} />
+        <Route exact path="/" element={<yaswanth-portfolio />} />
         <Route path="/home" element={<Home />} />
         <Route path="/project" element={<Project />} />
         <Route path="/about" element={<About />} />
-        <Route path="*" element={<Home />} />
+        <Route path="*" element={<yaswanth-portfolio />} />
         <Route path="/resume" element={<Resume/>} />
       </Routes>
       <Footer />
